@@ -1,5 +1,5 @@
 # Caffe matlab interface demo wrapper
-The matlab interface provided by caffe can not run directly, So I wrote this bash script to run it more conveniently.
+The matlab interface provided by caffe can not run directly, So I wrote this bash script to run it more convenient.
 
 Before running this scipt, make sure that you have Cuda, Caffe installed correctly, and matcaffe compiled successfully.
 
